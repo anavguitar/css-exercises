@@ -1,0 +1,23 @@
+/*styles.css*/
+
+.oddp {
+    background-color: #ff00ff;
+    font-family:'Verdana', 'Deja Vu Sans', 'Sans Serif';
+}
+
+#divtwo {
+    color:#000ff0;
+    font-size: 36px;
+}
+
+.thirdp {
+    font-size: 24px;
+}
+
+#divfour {
+    background-color: #00ffff;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
