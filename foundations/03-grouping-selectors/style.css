@@ -1,3 +1,9 @@
+.first_element,
+.second_element {
+    font-size: 28px;
+    font-family: 'Helvetica' 'Times New Roman' 'Sans Serif';
+}
+
 .first_element {
     background-color: black;
     color: white;
@@ -5,9 +11,4 @@
 
 .second_element {
     background-color: yellow;
-}
-
-.first_element.second_element {
-    font-size: 28px;
-    font-family: 'Helvetica' 'Times New Roman' 'Sans Serif';
 }
